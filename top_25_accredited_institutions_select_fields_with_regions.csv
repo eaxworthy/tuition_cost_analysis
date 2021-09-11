@@ -1,0 +1,26 @@
+institution_name,state,ranking,region
+Princeton University,NJ,1,N
+Harvard University,MA,2,N
+Columbia University,NY,3,N
+Yale University,CT,4,N
+Massachusetts Institute of Technology,MA,4,N
+University of Chicago,IL,6,M
+Stanford University,CA,6,W
+University of Pennsylvania,PA,8,N
+California Institute of Technology,CA,9,W
+Northwestern University,IL,9,M
+Johns Hopkins University,MD,9,N
+Duke University,NC,12,S
+Dartmouth College,NH,13,N
+Brown University,RI,14,N
+Vanderbilt University,TN,14,S
+Washington University in St. Louis,MO,16,M
+Rice University,TX,16,S
+Cornell University,NY,18,N
+University of Notre Dame,IN,19,M
+University of California: Los Angeles,CA,20,W
+Emory University,GA,21,S
+University of California: Berkeley,CA,22,W
+Georgetown University,DC,23,N
+University of Southern California,CA,24,W
+University of Michigan,MI,24,W
